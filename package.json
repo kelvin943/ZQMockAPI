@@ -1,0 +1,22 @@
+{
+  "name": "mockapi",
+  "version": "1.0.0",
+  "description": "node mock api",
+  "main": "index.js",
+  "scripts": {
+    "test": "fdsa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kelvin943/mockAPI.git"
+  },
+  "keywords": [],
+  "author": "macro",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-plugin-component": "^1.1.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

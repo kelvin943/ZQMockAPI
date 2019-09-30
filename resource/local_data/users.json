@@ -7,14 +7,12 @@
          "name" : "mahesh",
          "password" : "password1",
          "profession" : "teacher"
-         
       },
       {
          "id": 2,
          "name" : "suresh",
          "password" : "password2",
          "profession" : "librarian"
-         
       },
       {
          "id": 3,

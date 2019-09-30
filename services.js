@@ -1,7 +1,8 @@
 
 var express = require('express');
-var app  = express();
 var fs   = require("fs");
+var app  = express();
+
 var path = __dirname + "/" + "resource/local_data/"
 
 //添加的新用户数据

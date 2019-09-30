@@ -14,9 +14,11 @@
   "author": "macro",
   "license": "ISC",
   "devDependencies": {
+    "@paut/babel-config": "^1.0.6",
     "babel-plugin-component": "^1.1.1"
   },
   "dependencies": {
+    "@babel/runtime": "7.2.0",
     "express": "^4.17.1"
   }
 }

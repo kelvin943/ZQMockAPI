@@ -16,7 +16,7 @@ var newUser = {
 }
 var resultModel = {
     "msg": "OK",
-    "code": "200",   
+    "code": "200", 
 }
 
 app.get('/users/list', function (req, res) {

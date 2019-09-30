@@ -6,7 +6,7 @@
          "id": 1,
          "name" : "mahesh",
          "password" : "password1",
-         "profession" : "teacher"
+         "profession" : "teacher中文字发发发打分发 "
       },
       {
          "id": 2,
@@ -21,5 +21,4 @@
          "profession" : "clerk"
       }
    ]
-
 }

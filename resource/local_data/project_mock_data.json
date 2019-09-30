@@ -6,8 +6,8 @@
 	"data": {
 		"pageNo": 0,
 		"pageSize": 10,
-		"pageTotal": 7,
-		"total": 68,
+		"pageTotal": 3,
+		"totals": 28,
 		"list": [{
 			"id": 186,
 			"projectNo": "hgcsxm",

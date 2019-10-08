@@ -1,0 +1,66 @@
+{
+	"errorCode": "0",
+	"success": true,
+	"fieldErrors": [],
+	"msg": "请求成功！",
+	"data": {
+		"projectId": 186,
+		"projectName": "回归测试项目",
+		"checkFlag": 1,
+		"projectStageDtos": [{
+			"id": 259,
+			"stageId": 259,
+			"projectId": 186,
+			"stageName": "规划方案",
+			"subProjects": [{
+				"id": 425,
+				"projectId": 186,
+				"stageId": 259,
+				"name": "1号楼",
+				"sorting": 0
+			}, {
+				"id": 426,
+				"projectId": 186,
+				"stageId": 259,
+				"name": "2号楼",
+				"sorting": 1
+			}]
+		}, {
+			"id": 258,
+			"stageId": 258,
+			"projectId": 186,
+			"stageName": "初步设计",
+			"subProjects": [{
+				"id": 427,
+				"projectId": 186,
+				"stageId": 258,
+				"name": "子项1",
+				"sorting": 0
+			}, {
+				"id": 428,
+				"projectId": 186,
+				"stageId": 258,
+				"name": "子项2",
+				"sorting": 1
+			}]
+		}, {
+			"id": 260,
+			"stageId": 260,
+			"projectId": 186,
+			"stageName": "施工图设计",
+			"subProjects": [{
+				"id": 429,
+				"projectId": 186,
+				"stageId": 260,
+				"name": "子项1",
+				"sorting": 0
+			}, {
+				"id": 430,
+				"projectId": 186,
+				"stageId": 260,
+				"name": "子项2",
+				"sorting": 1
+			}]
+		}]
+	}
+}

@@ -14,7 +14,7 @@ module.exports = function(app) {
         });
      })
 
-     app.get('/project/detail/1', function (req, res) {
+     app.get('/project/detail', function (req, res) {
         fs.readFile( path + "detail.json", 'utf8', function (err, data) {
             // console.log( data );
             // 发送 HTTP 头部

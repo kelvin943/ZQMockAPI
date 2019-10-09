@@ -7,58 +7,58 @@
 		"projectId": 186,
 		"projectName": "回归测试项目",
 		"checkFlag": 1,
-		"projectStageDtos": [{
+		"projectGroupDtos": [{
 			"id": 259,
-			"stageId": 259,
+			"groupId": 259,
 			"projectId": 186,
-			"stageName": "规划方案",
-			"subProjects": [{
-				"id": 425,
+			"groupName": "规划方案",
+			"tasksDtos": [{
+				"taskId": 425,
 				"projectId": 186,
-				"stageId": 259,
-				"name": "1号楼",
+				"groupId": 259,
+				"taskName": "1号楼",
 				"sorting": 0
 			}, {
-				"id": 426,
+				"taskId": 426,
 				"projectId": 186,
-				"stageId": 259,
-				"name": "2号楼",
+				"groupId": 259,
+				"taskName": "2号楼",
 				"sorting": 1
 			}]
 		}, {
 			"id": 258,
-			"stageId": 258,
+			"groupId": 258,
 			"projectId": 186,
-			"stageName": "初步设计",
-			"subProjects": [{
-				"id": 427,
+			"groupName": "初步设计",
+			"tasksDtos": [{
+				"tastId": 427,
 				"projectId": 186,
-				"stageId": 258,
+				"groupId": 258,
 				"name": "子项1",
 				"sorting": 0
 			}, {
-				"id": 428,
+				"tastId": 428,
 				"projectId": 186,
-				"stageId": 258,
-				"name": "子项2",
+				"groupId": 258,
+				"taskName": "子项2",
 				"sorting": 1
 			}]
 		}, {
 			"id": 260,
-			"stageId": 260,
+			"groupId": 260,
 			"projectId": 186,
-			"stageName": "施工图设计",
-			"subProjects": [{
-				"id": 429,
+			"groupName": "施工图设计",
+			"tasksDtos": [{
+				"tastId": 429,
 				"projectId": 186,
-				"stageId": 260,
-				"name": "子项1",
+				"groupId": 260,
+				"taskName": "子项1",
 				"sorting": 0
 			}, {
-				"id": 430,
+				"tastId": 430,
 				"projectId": 186,
-				"stageId": 260,
-				"name": "子项2",
+				"groupId": 260,
+				"taskName": "子项2",
 				"sorting": 1
 			}]
 		}]
